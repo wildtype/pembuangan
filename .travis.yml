@@ -1,0 +1,4 @@
+language: "perl"
+before_install:
+    - cpanm WebService::Dropbox
+
